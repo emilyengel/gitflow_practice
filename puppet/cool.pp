@@ -1,3 +1,3 @@
-user { 'chase':
+group { 'coolpeople':
 	ensure => 'present',
 }

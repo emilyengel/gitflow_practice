@@ -1,0 +1,3 @@
+user { 'chase':
+	ensure => 'present',
+}

@@ -1,0 +1,3 @@
+group { 'coolpeople':
+	ensure => 'present',
+}
